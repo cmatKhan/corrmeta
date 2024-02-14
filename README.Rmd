@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/cmatKhan/corrmeta/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cmatKhan/corrmeta/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Correlated Meta-Analysis (corrmeta) integrates findings across multiple OMIC scans, accounting for hidden non-independencies between elements of the scans that can occur when data are generated with overlapping subjects, related subjects, or other information. 
